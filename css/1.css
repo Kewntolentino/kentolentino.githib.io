@@ -1,0 +1,143 @@
+.rectangle {
+	height: 5vh;
+	border: 2px clear solid;
+	background: url("../images/3.jpg") no-repeat scroll center #000000;
+	background-size: 100%
+}
+
+.container {
+	height: 30vh;
+	border: 2px clear solid;
+	margin-bottom: 15px;
+	background: url("../images/4.jpg") no-repeat scroll center #000000;
+	background-size: 100%
+}
+
+.rectangle2 {
+	height: 8vh;
+	border: 2px clear solid;
+	text-align: center;
+	font-size: 45px;
+	color: white;
+}
+
+.container2 {
+	display: grid;
+	grid-template-columns: 4fr 1fr;
+	height: 40vh;
+	border: 2px clear solid;
+	margin-bottom: 15px;
+}
+.box{
+	text-align: center;
+	font-family: Bookman Old Style;
+	font-size: 25px;
+	color: #22114B;
+}
+.box2 {
+	border: 2px clear solid;
+	background: url("../images/5.jpg") no-repeat scroll center #000000;
+	background-size: 100%;
+	text-align: center;
+}
+
+
+.rectangle3 {
+	height: 8vh;
+	border: 2px clear solid;
+	text-align: center;
+	font-size: 45px;
+	color: white;
+}
+
+.container3 {
+	height: 65vh;
+	border: 2px clear solid;
+	background: url("../images/6.jpg") no-repeat scroll center #000000;
+	background-size:1330px 480px;
+}
+
+.container4 {
+	display: grid;
+	height: 22vh;
+	border: 2px clear solid;
+	margin-bottom: 15px;
+	text-align: center;
+	font-family: Bookman Old Style;
+	font-size: 20px;
+}
+
+.rectangle4 {
+	text-align: center;
+	font-family: Bookman Old Style;
+	font-size: 45px;
+	color: #22114B;
+}
+
+.container5 {
+	height: 50vh;
+	padding: 0px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 10px;
+	margin-bottom: 15px;
+}
+
+.boxx1 {
+	border: 2px clear solid;
+	background: url("../images/9.jpg");
+	height:68vh;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	text-align: center;
+	font-family: Bookman Old Style;
+	font-size: 45px;
+	color: White;
+	text-decoration: none;
+}
+.boxx1:hover{
+	background: url(../images/10.jpg);
+	background-size: 100%;
+	height: 68vh;
+	border: 2px clear solid;
+	background-repeat: no-repeat;
+	
+}
+.boxx2 {
+	border: 2px clear solid;
+	background: url(../images/11.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	text-align: center;
+	font-family: Bookman Old Style;
+	font-size: 45px;
+	color: White;
+}
+.boxx2:hover{
+	background: url(../images/12.jpg);
+	background-size: 100%;
+	height: 68vh;
+	border: 2px clear solid;
+	background-repeat: no-repeat;
+}
+
+.boxx3 {
+	border: 2px clear solid;
+	background: url(../images/13.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	text-align: center;
+	font-family: Bookman Old Style;
+	font-size: 45px;
+	color: White;
+}
+.boxx3:hover{
+	background: url(../images/14.jpg);
+	background-size: 100%;
+	height: 68vh;
+	border: 2px clear solid;
+	background-repeat: no-repeat;
+}
+*{
+	background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
