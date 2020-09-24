@@ -53,8 +53,8 @@
 }
 
 .boxy {
-	background: url("../images/16.jpg")no-repeat scroll center #000000;
 	border: 2px clear solid;
+	background: url("../images/16.jpg") no-repeat scroll center #000000;
 	background-size: 100%;
 }
 .boxofme1{
