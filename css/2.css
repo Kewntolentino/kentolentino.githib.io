@@ -55,8 +55,7 @@
 .boxy {
 	background: url("../images/16.jpg")no-repeat scroll center #000000;
 	border: 2px clear solid;
-	background-size: cover;
-	padding: 10px;
+	background-size: 100%;
 }
 .boxofme1{
 	text-align:center;
