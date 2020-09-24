@@ -45,7 +45,7 @@
 
 .rectangle5 {
 	display: grid;
-	grid-template-columns: 1fr 4fr;
+	grid-template-columns: 4fr 1fr;
 	height: 40vh;
 	border: 2px clear solid;
 	margin-bottom: 15px;
